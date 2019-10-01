@@ -1,0 +1,10 @@
+{
+  "simulation": "Login.home",
+  "simulationId": "home",
+  "start": 1569509000678,
+  "description": "prueba",
+  "scenarios": ["navegacion_home"],
+  "assertions": [
+
+  ]
+}

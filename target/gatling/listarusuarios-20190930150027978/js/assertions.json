@@ -1,0 +1,10 @@
+{
+  "simulation": "Servicios.ListarUsuarios",
+  "simulationId": "listarusuarios",
+  "start": 1569855627978,
+  "description": "",
+  "scenarios": ["SmokeTest"],
+  "assertions": [
+
+  ]
+}

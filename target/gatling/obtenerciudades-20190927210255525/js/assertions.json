@@ -1,0 +1,10 @@
+{
+  "simulation": "Servicios.ObtenerCiudades",
+  "simulationId": "obtenerciudades",
+  "start": 1569618175525,
+  "description": "",
+  "scenarios": ["SmokeTest"],
+  "assertions": [
+
+  ]
+}
